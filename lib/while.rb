@@ -6,4 +6,4 @@ def using_while
 	end
 end
 
-usin_while
+using_while
