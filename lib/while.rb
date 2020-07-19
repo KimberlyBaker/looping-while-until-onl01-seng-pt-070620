@@ -6,4 +6,4 @@ def using_while
 	  counter += 1
 end
 
-
+usin_while
